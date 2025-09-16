@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Frank Krätzig  
+### 👋 Hi, I’m Frank K  
 
 I’m a **Full-Stack & Integration Engineer** with a focus on building robust, data-driven web applications.  
 My work spans the entire software lifecycle — from **architecture & APIs** to **deployment & monitoring**.  
