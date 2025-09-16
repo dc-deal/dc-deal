@@ -11,3 +11,6 @@ My work spans the entire software lifecycle — from **architecture & APIs** to 
 
 💡 I value **clean code, reliable processes, and performance optimization**.  
 Always learning, improving, and exploring new technologies.  
+
+### 🚧 Projects in progress
+I’m currently preparing my first public project – more coming soon!
