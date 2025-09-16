@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @dc-deal
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Typescript / MongoDB
-- 💞️ I’m looking to collaborate on various NPM Modules which i use myself
-- 📫 How to reach me: Just send a pm or mail
+### 👋 Hi, I’m Frank Krätzig  
 
-<!---
-dc-deal/dc-deal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Full-Stack & Integration Engineer** with a focus on building robust, data-driven web applications.  
+My work spans the entire software lifecycle — from **architecture & APIs** to **deployment & monitoring**.  
+
+🔧 Tech focus (selection):  
+- **Backend:** PHP, Symfony (components), WooCommerce, REST APIs, MySQL  
+- **Frontend:** Vue 3, Vite, Tailwind, responsive UI/UX  
+- **DevOps & Quality:** Git/GitHub, CI/CD (GitHub Actions), Linux/SSH, Monitoring (Sentry/Logs), Caching/CDN  
+- **Integration:** ERP ↔ Shop, data validation, transaction safety  
+
+💡 I value **clean code, reliable processes, and performance optimization**.  
+Always learning, improving, and exploring new technologies.  
